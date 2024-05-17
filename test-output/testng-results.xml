@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[campaign module]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-04T14:16:34 IST" name="Default suite" finished-at="2024-03-04T14:16:48 IST" duration-ms="13915">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T14:16:34 IST" name="Default test" finished-at="2024-03-04T14:16:48 IST" duration-ms="13915">
+      <class name="com.crm.testscript.CampaignModule">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.crm.testscript.CampaignModule@4e5ed836]" started-at="2024-03-04T14:16:34 IST" name="openBrowser" finished-at="2024-03-04T14:16:38 IST" duration-ms="3419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.testscript.CampaignModule@4e5ed836]" started-at="2024-03-04T14:16:38 IST" name="login" finished-at="2024-03-04T14:16:48 IST" duration-ms="9831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testCampaignModule()[pri:0, instance:com.crm.testscript.CampaignModule@4e5ed836]" started-at="2024-03-04T14:16:48 IST" name="testCampaignModule" finished-at="2024-03-04T14:16:48 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[campaign module]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCampaignModule -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.testscript.CampaignModule@4e5ed836]" started-at="2024-03-04T14:16:48 IST" name="logout" finished-at="2024-03-04T14:16:48 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.testscript.CampaignModule@4e5ed836]" started-at="2024-03-04T14:16:48 IST" name="closeBrowser" finished-at="2024-03-04T14:16:48 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.crm.testscript.CampaignModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
